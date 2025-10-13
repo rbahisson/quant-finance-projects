@@ -1,48 +1,46 @@
-Project_1_Investment_Analysis/README.md
-
 # Investment Analysis for Equity Portfolio
 
-This project analyzes the performance and risk–return characteristics of a small equity portfolio composed of large U.S. financial institutions — **JPMorgan Chase (JPM)**, **Morgan Stanley (MS)**, and **Bank of America (BAC)** — over the year 2024.  
-It forms part of my *Independent Quant Finance Projects* series, showcasing data-driven financial analysis using Python.
+This notebook provides a structured workflow for analyzing the performance and risk characteristics of an equity portfolio composed of major U.S. financial institutions. The analysis is implemented in Python and demonstrates practical steps in quantitative portfolio analytics.
 
 ---
 
-## 📈 Objectives
-- Retrieve and visualize market data for selected equities.  
-- Compute **simple** and **log returns** to compare return measurement techniques.  
-- Construct and evaluate a **portfolio of financial stocks**.  
-- Analyze **cumulative returns, volatility, and correlation** between assets.  
-- Provide clear, reproducible code for quantitative portfolio analysis.
+## Workflow Overview
 
----
+### 1. Download Market Data
+- Retrieve daily closing prices for **JPMorgan Chase (JPM)**, **Morgan Stanley (MS)**, and **Bank of America (BAC)**.  
+- Use the `yfinance` library to access data between January 2024 and January 2025.  
+- Store and clean the data using `pandas` for subsequent analysis.
 
-## 🧠 Methodology
-1. **Data Collection** – Historical price data is downloaded via the `yfinance` API.  
-2. **Data Processing** – Cleaning and formatting with `pandas`.  
-3. **Return Calculations** –  
-   - *Simple Return:* \( r_t = \frac{P_t - P_{t-1}}{P_{t-1}} \)  
-   - *Log Return:* \( r_t = \ln(\frac{P_t}{P_{t-1}}) \)  
-4. **Portfolio Analysis** – Aggregated portfolio returns based on equal weights, comparison of cumulative growth, and basic risk metrics (standard deviation, covariance).  
-5. **Visualization** – Time-series plots of prices and returns using `matplotlib` and `plotly` for interactive insights.
+### 2. Visualize Price Series
+- Plot the historical closing prices of all three equities.  
+- Use both static (`matplotlib`) and interactive (`plotly`) visualizations to explore trends and co-movement.
 
----
+### 3. Calculate Returns
+- **Simple Returns:** \( r_t = \frac{P_t - P_{t-1}}{P_{t-1}} \)  
+- **Log Returns:** \( r_t = \ln \left(\frac{P_t}{P_{t-1}}\right) \)  
+- Compare both approaches to assess scale and compounding effects.
 
-## 🧰 Tools and Libraries
-- **Python 3.10+**
-- `pandas`, `numpy` – data manipulation and numerical computation  
-- `yfinance` – market data retrieval  
-- `matplotlib`, `plotly` – data visualization  
+### 4. Analyze Return Distributions
+- Compute key descriptive statistics (mean, standard deviation, skewness, kurtosis).  
+- Plot histograms of returns to visualize distributional properties.
 
----
+### 5. Examine Correlation Structure
+- Calculate the correlation matrix of returns to identify dependencies between assets.  
+- Visualize the results using a heatmap for clarity.
 
-## 📊 Key Insights
-- Strong co-movement between major U.S. banks during 2024, highlighting systemic exposure.  
-- Log and simple returns yield consistent performance trends with minor scale differences.  
-- Diversification benefits are limited due to high correlation among financial sector equities.
+### 6. Construct Portfolio Returns
+- Create an equally weighted portfolio composed of the three equities.  
+- Compute daily portfolio returns as the average of individual asset returns.
 
----
+### 7. Evaluate Portfolio Performance
+- Derive key performance metrics such as cumulative return and annualized volatility.  
+- Compare individual stock performance against the aggregated portfolio.
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/quant-finance-projects.git
+### 8. Visualize Portfolio Dynamics
+- Plot cumulative returns for both individual assets and the portfolio.  
+- Highlight the diversification (or lack thereof) among correlated financial sector stocks.
+
+### 9. Summarize Findings
+- Financial sector equities exhibit strong co-movement and limited diversification.  
+- Log and simple returns produce consistent results, with log returns preferred for compounded analysis.  
+- The equally weighted portfolio provides stable but sector-concentrated exposure.
