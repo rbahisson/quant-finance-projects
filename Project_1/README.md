@@ -1,4 +1,4 @@
-# Investment Analysis for Equity Portfolio
+# Project 1 - Investment Analysis for Equity Portfolio
 
 This notebook provides a structured workflow for analyzing the performance and risk characteristics of an equity portfolio composed of major U.S. financial institutions. The analysis is implemented in Python and demonstrates practical steps in quantitative portfolio analytics.
 
