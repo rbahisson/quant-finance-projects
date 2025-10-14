@@ -1,9 +1,8 @@
 # Poker Assistant — Monte Carlo Betting Advisor
 
-This project implements a Python-based **Poker Assistant** for *Texas Hold’em*.  
-It uses **Monte Carlo simulations** to estimate win probabilities in real-time, compares them to **pot odds**, and recommends whether to *fold*, *call*, or *raise* based on your bankroll and risk preference.
+This project implements a Python-based **Poker Assistant** for *Texas Hold’em*. It uses Monte Carlo simulations to estimate win probabilities in real-time, compares them to *pot odds*, and recommends whether to *fold*, *call*, or *raise* based on your bankroll and risk preference.
 
-The tool combines elements of **probabilistic modeling**, **simulation-based decision making**, and **game theory**, demonstrating the application of quantitative reasoning outside traditional finance.
+The tool combines elements of probabilistic modeling, simulation-based decision making, and game theory, demonstrating the application of quantitative reasoning outside traditional finance.
 
 ---
 
@@ -25,8 +24,8 @@ The tool combines elements of **probabilistic modeling**, **simulation-based dec
 - Estimates the **probability of winning or tying** given current conditions.
 
 ### 4. Pot Odds and Risk Adjustment
-- Computes **pot odds** = amount to call / (pot size + amount to call).  
-- Adjusts the simulated win probability according to the user’s **risk factor** (0 = risk-averse, 1 = risk-seeking).  
+- Computes *pot odds* = amount to call / (pot size + amount to call).  
+- Adjusts the simulated win probability according to the user’s *risk factor* (0 = risk-averse, 1 = risk-seeking).  
 - Incorporates behavioral elements into expected value decision-making.
 
 ### 5. Decision Recommendation
