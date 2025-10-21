@@ -18,19 +18,19 @@ Integrates market and macroeconomic indicators such as VIX, Treasury yields, oil
 Modeling financial market volatility using *ARCH*, *GARCH*, and *EWMA* frameworks.  
 Compares volatility persistence and clustering effects for JPMorgan Chase daily returns.
 
-## **Project 5 - Monte Carlo Simulation Call (C++)**
+## **Project 5 - Monte Carlo Simulation Call (*C++*)**
 Monte-Carlo simulation for pricing a European Call Option under the Black-Scholes model.
 Illustrates stochastic simulation, discounted payoff estimation, and random number generation via the Box–Muller algorithm.
 
-## **Project 6 - Monte Carlo Basket Option (C++)**
+## **Project 6 - Monte Carlo Basket Option (*C++*)**
 Extends the Monte Carlo framework to two correlated assets to price a basket call option.
 It demonstrates correlation modeling through Cholesky decomposition and multi-asset option valuation techniques.
 
-## **Project 7 - Finite Difference FX European Call (C++)**
+## **Project 7 - Finite Difference FX European Call (*C++*)**
 Implements an explicit finite-difference scheme to solve the Black–Scholes PDE for a foreign-exchange call option.
 The project highlights numerical methods, grid stability, and the treatment of domestic and foreign interest rates.
 
-## **Project 8 - Vasicek Short-Rate Monte Carlo (C++)**
+## **Project 8 - Vasicek Short-Rate Monte Carlo (*C++*)**
 Simulates the Vasicek short-rate process using Euler–Maruyama discretization to price a zero-coupon bond.
 It showcases stochastic interest-rate modeling and the estimation of expected discount factors via Monte Carlo simulation.
 
