@@ -31,6 +31,8 @@ Implements an explicit finite-difference scheme to solve the Black–Scholes PDE
 The project highlights numerical methods, grid stability, and the treatment of domestic and foreign interest rates.
 
 ## **Project 8 - Vasicek Short-Rate Monte Carlo (C++)**
+Simulates the Vasicek short-rate process using Euler–Maruyama discretization to price a zero-coupon bond.
+It showcases stochastic interest-rate modeling and the estimation of expected discount factors via Monte Carlo simulation.
 
 ## **Poker Assistant (Monte Carlo Betting Advisor)**
 Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
