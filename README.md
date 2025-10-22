@@ -34,6 +34,10 @@ The project highlights numerical methods, grid stability, and the treatment of d
 Simulates the Vasicek short-rate process using Euler–Maruyama discretization to price a zero-coupon bond.
 It showcases stochastic interest-rate modeling and the estimation of expected discount factors via Monte Carlo simulation.
 
+## **Project 9 - Market Making & Risk Visualization Simulation**
+Developed a Python-based market-making simulator to model bid/offer pricing, trade execution, and cumulative nominal risk visualization using `pandas` and `matplotlib`.
+Implemented dynamic position tracking and data validation to analyze trading performance and visualize exposure evolution over time.
+
 ## **Poker Assistant (Monte Carlo Betting Advisor)**
 Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
 Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
