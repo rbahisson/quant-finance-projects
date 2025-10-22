@@ -35,7 +35,7 @@ Simulates the Vasicek short-rate process using Euler–Maruyama discretization t
 It showcases stochastic interest-rate modeling and the estimation of expected discount factors via Monte Carlo simulation.
 
 ## **Project 9 - Market Making & Risk Visualization Simulation**
-Developed a Python-based market-making simulator to model bid/offer pricing, trade execution, and cumulative nominal risk visualization using `pandas` and `matplotlib`.
+Developed a Python-based market-making simulator to model bid/offer pricing, trade execution, and cumulative nominal risk visualization.
 Implemented dynamic position tracking and data validation to analyze trading performance and visualize exposure evolution over time.
 
 ## **Poker Assistant (Monte Carlo Betting Advisor)**
