@@ -38,6 +38,10 @@ It showcases stochastic interest-rate modeling and the estimation of expected di
 Developed a Python-based market-making simulator to model bid/offer pricing, trade execution, and cumulative nominal risk visualization.
 Implemented dynamic position tracking and data validation to analyze trading performance and visualize exposure evolution over time.
 
+## **Project 10 - Total Portfolio Risk Analysis**
+Allows user to build their own portfolio with both European and American options (long and short). 
+Then analyzes the entire portfolio's risk profile in real-time. 
+
 ## **Poker Assistant (Monte Carlo Betting Advisor)**
 Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
 Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
