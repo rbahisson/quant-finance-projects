@@ -1,1 +1,5 @@
+# **Project 1 - Impacts of Transport and Heating Electrification on Great Britain’s Power Demand and Market Dynamics**
 
+In 2024, the UK’s total electricity demand amounted to 319 TWh, which represents a 0.5% increase compared to 2023. In 2025, two key structural transitions are expected to push the country’s demand even higher: namely the electrification of vehicles as well as the transition of residential heating from gas to electricity-based systems.  
+The percentage of EVs in the UK’s car parc has been linearly increasing since 2021, from 1% to an estimated 5% in 2025. Regarding residential heating, the UK has announced its goal to reach full decarbonization of domestic heating by 2050 (“Heat Pump Ready” Program). According to a UK census conducted in 2025, 77% of households are still using gas-based or oil-based heating systems. 
+These shifts will not only increase overall demand in the upcoming years, but also directly affect the demand patterns and therefore impact the electricity markets, pricing, volatility, and trading dynamics. 
