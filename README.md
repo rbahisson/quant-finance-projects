@@ -42,6 +42,14 @@ Implemented dynamic position tracking and data validation to analyze trading per
 Allows user to build their own portfolio with both European and American options (long and short). 
 Then analyzes the entire portfolio's risk profile in real-time. 
 
+## **Project 11 - Evaluation of a Certificate**
+Evaluation of a Certificate from Commerzbank. 
+Computed the Value of the Index, its volatility as well as the Certificate's Fair Price. 
+
+## **Project 12 - Performance Evaluation of a Fund**
+Calculated the annualized return rate, standard deviation and maximum 4-week drawdown. 
+Compared its performance with various benchmarks by computing the Sharpe ratio and Information ratio. 
+
 ## **Poker Assistant (Monte Carlo Betting Advisor)**
 Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
 Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
