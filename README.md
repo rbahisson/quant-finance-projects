@@ -1,3 +1,12 @@
+# Other Projects
+
+## **Poker Assistant (Monte Carlo Betting Advisor)**
+Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
+Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
+
+## **Market Research Projects**
+Please see the dedicated folder for more details on these projects. 
+
 # Quantitative Finance Projects
 
 End-to-end quantitative finance portfolio demonstrating skills in financial modeling, risk analysis, and data-driven investment research.
@@ -49,7 +58,3 @@ Computed the Value of the Index, its volatility as well as the Certificate's Fai
 ## **Project 12 - Performance Evaluation of a Fund**
 Calculated the annualized return rate, standard deviation and maximum 4-week drawdown. 
 Compared its performance with various benchmarks by computing the Sharpe ratio and Information ratio. 
-
-# **Poker Assistant (Monte Carlo Betting Advisor)**
-Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
-Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
