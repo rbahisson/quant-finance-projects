@@ -53,10 +53,3 @@ Compared its performance with various benchmarks by computing the Sharpe ratio a
 ## **Poker Assistant (Monte Carlo Betting Advisor)**
 Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
 Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
-
-
-# Market Research Projects
-
-
-## **Project 1 - Impacts of Transport and Heating Electrification on Great Britain’s Power Demand and Market Dynamics**
-Research focused on the UK Energy Market and how the electrification of the transport and the residential heating in the UK will impact its energy market in the future.
