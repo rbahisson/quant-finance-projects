@@ -50,6 +50,6 @@ Computed the Value of the Index, its volatility as well as the Certificate's Fai
 Calculated the annualized return rate, standard deviation and maximum 4-week drawdown. 
 Compared its performance with various benchmarks by computing the Sharpe ratio and Information ratio. 
 
-## **Poker Assistant (Monte Carlo Betting Advisor)**
+# **Poker Assistant (Monte Carlo Betting Advisor)**
 Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
 Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
