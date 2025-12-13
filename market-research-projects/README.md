@@ -2,4 +2,4 @@
 
 ## **Project 1 - Impacts of Transport and Heating Electrification on Great Britain’s Power Demand and Market Dynamics**
 
-## **Project 2 - **
+## **Project 2 - Financial Statement Analysis in the Hospitality Sector**
