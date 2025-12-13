@@ -55,6 +55,6 @@ Then analyzes the entire portfolio's risk profile in real-time.
 Evaluation of a Certificate from Commerzbank. 
 Computed the Value of the Index, its volatility as well as the Certificate's Fair Price. 
 
-## **Project 12 - Performance Evaluation of a Fund **
+## **Project 12 - Performance Evaluation of a Fund**
 Calculated the annualized return rate, standard deviation and maximum 4-week drawdown. 
 Compared its performance with various benchmarks by computing the Sharpe ratio and Information ratio. 
