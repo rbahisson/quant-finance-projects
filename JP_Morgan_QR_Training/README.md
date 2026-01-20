@@ -1,6 +1,6 @@
 # JP Morgan Quantitative Research Training 
 
-This training was focused on developping both contract pricing models and credit risk models, under the supervision of Senior JP Morgan Quant Researchers. 
+This training was focused on developping both contract pricing models and credit risk models, under the supervision of Senior JP Morgan Quant Researchers. My participation certificate is also available in this folder. 
 
 ## **Commodity Storage Contract Pricing Model**
 Developed a natural gas storage pricing model combining time-series price forecasting with seasonality, inventory constraints, and cash-flow valuation to estimate contract value across injection and withdrawal schedules.
