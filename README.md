@@ -7,6 +7,9 @@ Estimates win probabilities, computes pot odds, and recommends betting actions b
 ## **Market Research Projects**
 Please see the dedicated folder for more details on these projects. 
 
+## **JP Morgan Quantitative Research Training**
+Built commodity storage pricing and credit risk models under the supervision of Senior JP Morgan Quant Researchers.
+
 # Quantitative Finance Projects
 
 End-to-end quantitative finance portfolio demonstrating skills in financial modeling, risk analysis, and data-driven investment research.
