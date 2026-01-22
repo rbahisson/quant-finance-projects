@@ -1,14 +1,14 @@
 # Other Projects
 
+## **JP Morgan Quantitative Research Training**
+Built commodity storage pricing and credit risk models under the supervision of Senior JP Morgan Quant Researchers.
+
 ## **Poker Assistant (Monte Carlo Betting Advisor)**
 Python-based decision assistant for Texas Hold’em using *Monte Carlo simulations*.  
 Estimates win probabilities, computes pot odds, and recommends betting actions based on risk preferences.
 
 ## **Market Research Projects**
 Please see the dedicated folder for more details on these projects. 
-
-## **JP Morgan Quantitative Research Training**
-Built commodity storage pricing and credit risk models under the supervision of Senior JP Morgan Quant Researchers.
 
 # Quantitative Finance Projects
 
