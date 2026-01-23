@@ -62,6 +62,6 @@ Computed the Value of the Index, its volatility as well as the Certificate's Fai
 Calculated the annualized return rate, standard deviation and maximum 4-week drawdown. 
 Compared its performance with various benchmarks by computing the Sharpe ratio and Information ratio. 
 
-## **Credit Risk Model**
+## **Credit Risk FICO Model**
 
 ## **Commodity Storage Contract Pricing Model**
