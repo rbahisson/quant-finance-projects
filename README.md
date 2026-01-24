@@ -67,3 +67,6 @@ Built a credit risk framework to estimate probability of default and expected lo
 
 ## **Commodity Storage Contract Pricing Model**
 Developed a natural gas storage pricing model combining time-series price forecasting with seasonality, inventory constraints, and cash-flow valuation to estimate contract value across injection and withdrawal schedules.
+
+## **Portfolio Optimizations**
+Built models based on multiple optimization principles: minimum variance, target returns, risk-aversion. 
