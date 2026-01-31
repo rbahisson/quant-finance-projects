@@ -12,3 +12,6 @@ Developed a natural gas storage pricing model combining time-series price foreca
 
 ## Performance Evaluation of a Fund 
 Calculated the annualized return rate, standard deviation and maximum 4-week drawdown. Compared its performance with various benchmarks by computing the Sharpe ratio and Information ratio.
+
+## Loan Default Risk Analysis (Based on ML methods)
+Applied Machine Learning techniques to predict credit risk using the German Credit dataset. The goal is to classify loan applicants as good (low risk) or bad (high risk) credit risks based on demographic and financial features. 
