@@ -12,6 +12,9 @@ Illustrates stochastic simulation, discounted payoff estimation, and random numb
 Implements an explicit finite-difference scheme to solve the Black–Scholes PDE for a foreign-exchange call option. 
 The project highlights numerical methods, grid stability, and the treatment of domestic and foreign interest rates.
 
+## Stock Portfolio Monte Carlo Simulation (Python)
+Monte-Carlo Simulation for Portfolio Value over the span of 100 days. 
+
 ## Vasicek Short-Rate Monte Carlo Simulation (*C++*)
 Simulates the Vasicek short-rate process using Euler–Maruyama discretization to price a zero-coupon bond. 
 It showcases stochastic interest-rate modeling and the estimation of expected discount factors via Monte Carlo simulation.
