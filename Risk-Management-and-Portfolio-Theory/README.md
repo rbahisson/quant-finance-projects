@@ -1,5 +1,9 @@
 # **Risk Management and Portfolio Theory**
 
+## VaR Estimation via Monte Carlo Simulation
+Built a portfolio. Computed its expected return and standard deviation. 
+Ran a Monte Carlo simulation (10000 Simulations) and then estimated the VaR. 
+
 ## Investment Analysis for Equity Portfolio
 Analysis of U.S. financial institutions’ stock performance using historical price data.
 Includes computation of simple and log returns, portfolio construction, and risk–return evaluation.
