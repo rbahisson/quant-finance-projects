@@ -1,4 +1,4 @@
-# Project 4 - Volatility Modeling Using Quantitative Models
+# Volatility Modeling Using Quantitative Models
 
 This project demonstrates how to model and forecast financial market volatility using three quantitative approaches — *ARCH*, *GARCH*, and *EWMA* — applied to *JPMorgan Chase (JPM)* daily returns.  
 It highlights volatility clustering, persistence, and conditional heteroskedasticity in financial time series.
