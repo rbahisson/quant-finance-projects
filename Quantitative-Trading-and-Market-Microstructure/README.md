@@ -7,3 +7,7 @@ Implemented dynamic position tracking and data validation to analyze trading per
 ## Time-Series Momentum Backtesting 
 Built a backtest to study time-series momentum and its risk-return trade-offs. 
 This simulation shows that short-horizon momentum acts as a risk-management overlay rather than a return-enhancing signal. 
+
+## Thinknum Data Engineering Project
+
+## Trading Strategies on FX Markets (Spot and Cross Currency Rates) 
